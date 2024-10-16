@@ -21,3 +21,8 @@ To install the required dependencies, run:
 ```bash
 pip install -r requirements.txt
 
+## Dataset
+The dataset used in this project is kc_house_data.csv, which contains detailed information on houses sold in King County, USA. Each row represents a house with features such as the number of bedrooms, bathrooms, and more.
+
+## Contributing
+Feel free to submit a pull request for any improvements or suggestions.
